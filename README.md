@@ -59,5 +59,5 @@ Hi! I'm Mina Lee. I am a SW Engineer with a goal of continuous growth.<br> I wan
 
 <div align="center">
 <h3>🔍 Etc</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=chsjen492&show_icons=true" /><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dropwort" />
+<img src="https://github-readme-stats.vercel.app/api?username=chsjen492&show_icons=true" /> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dropwort" />
 </div>
